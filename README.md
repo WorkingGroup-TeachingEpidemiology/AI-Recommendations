@@ -1,4 +1,4 @@
-# AI-Recommendations
+# Ten recommendations for the use of generative AI in epidemiology teaching
 
 The publication can be found here: [INSERT LINK]
 
